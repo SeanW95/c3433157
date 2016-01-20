@@ -1,6 +1,4 @@
-# c3433157
-  
-Operating Systems Assignment 2 Year 2  
+# Operating Systems Assignment 2 Year 2  - C3433157
   
 How to execute script:  
 1) Download script.sh  
