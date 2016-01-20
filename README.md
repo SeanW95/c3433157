@@ -8,4 +8,7 @@ How to execute script:
 3) GUI Should now be loaded
 
 
-
+Troubleshooting:
+Invalid permissions / Permission denied :
+1) Open a terminal, navigate to the folder where Script.sh is located.
+2) Type "chmod 777 Script.sh" without quotes and press enter. This will give all users access to read, write and execute Script.sh
